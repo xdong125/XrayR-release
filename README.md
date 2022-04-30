@@ -1,3 +1,5 @@
+# 注意
+原作者己删库，仅只是复制备份做成自己的仓库供自己使用！！！
 # XRayR
 A Xray backend framework that can easily support many panels.
 
