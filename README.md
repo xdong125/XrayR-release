@@ -1,7 +1,7 @@
 # 注意
-原作者己删库(目前由御坂接手了)，仅只是复制备份做成自己的仓库供自己使用！！！
+(基于大佬作者Misaka-blog)原作者己删库(目前由御坂接手了),仅只是复制备份做成自己的仓库供自己使用！！！
 
-# XRayR
+# XRayR(基于大佬作者Misaka-blog)
 A Xray backend framework that can easily support many panels.
 
 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
