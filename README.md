@@ -1,5 +1,6 @@
 # 注意
 (基于大佬作者Misaka-blog)原作者己删库(目前由御坂接手了),仅只是复制备份做成自己的仓库供自己使用！！！
+大佬作者github地址：https://github.com/Misaka-blog
 
 # XRayR(基于大佬作者Misaka-blog)
 A Xray backend framework that can easily support many panels.
